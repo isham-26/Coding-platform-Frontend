@@ -8,7 +8,7 @@ const Navbar = () => {
   const navLinks = [
     { name: 'Home', path: '/' },
     { name: 'Problems', path: '/problems' },
-    { name: 'Contests', path: '/contests' },
+    { name: 'capsul', path: '/capsul' },
     { name: 'Leaderboard', path: '/leaderboard' },
     { name: 'Login', path: '/login' },
   ];
